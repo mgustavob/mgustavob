@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Martin and I live in the Boston Greater Area
+![mgustavob](https://github-readme-stats.vercel.app/api?username=mgustavob&show_icons=true&hide_border=true)
 <!--
 **mgustavob/mgustavob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
